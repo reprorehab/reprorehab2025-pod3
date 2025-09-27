@@ -1,8 +1,9 @@
-1. Christina Garrity
-2. Abhi Jaywant
-3. Jamie Kronenberg
-4. Dan Peterson
-5. Rukshana Poudel
-6. Daria Pressler
-7. Bryant Seamon
-8. Chris Wendt
+1. Mitra Rouhani
+2. Fisayo Aloba
+3. Hyo Jung Jeong
+4. Cielita Lopez-Lennon
+5. Juliette Pope
+6. Michelle Eliason
+7. Shaaron Brown
+8. Lauren Van Valkenburgh
+9. Kellee Hanigan
