@@ -9,7 +9,7 @@ The signals were exported in alphabetical order unfortunately, so the organizati
 
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
 ${\color{red} Below\space\ is \space\ our \space\ research \space QUESTION:}$ <br>
-An immediate need I have is to **assess statistical differences between the 3 marker placement trials** <br>
+**Aassess statistical differences between the 3 marker placement trials** <br>
 
 
 ## Pod 3 Playground
