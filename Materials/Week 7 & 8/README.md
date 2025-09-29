@@ -8,8 +8,8 @@ So now, when you see the file names, hopefully it should make more sense. As far
 The signals were exported in alphabetical order unfortunately, so the organization is a bit all over the place. I could also export actual marker trajectory position data, but I just began with these signals that are calculated in Visual 3D using model-based computation.
 
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
-${\color{red} Below\space\ is \space\ our \space\ research \space QUESTION:}$ <br>
-**Aassess statistical differences between the 3 marker placement trials** <br>
+${\color{red} Below\space\ is \space\ our \space\ research \space OBJECTIVE:}$ <br>
+**Assess statistical differences between the 3 marker placement trials** <br>
 
 
 ## Pod 3 Playground
