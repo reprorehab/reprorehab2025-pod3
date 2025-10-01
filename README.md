@@ -16,7 +16,7 @@ Each week, we will share a **“codebook”** that contains the code and explana
 
 1. **`.R` format**: A script that can be run in RStudio. Contains the same code with comments, but without the step-by-step explanations and outputs.  
 
-2. **`.ipynb` format (Jupyter Notebook)**: An interactive notebook with code and explanations. Run it step-by-step, view outputs, and read notes. Open locally in Jupyter (install [tutorial](https://youtu.be/BQ-aM3ULKYs?si=5DmHN1956TxVTE-s&t=160)) or in **Google Colab**.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)  
+2. **`.ipynb` format (Jupyter Notebook)**: An interactive notebook with code and explanations. Run it step-by-step, view outputs, and read notes. Open locally in Jupyter (install <a href="https://youtu.be/BQ-aM3ULKYs?si=5DmHN1956TxVTE-s&t=160" target="_blank">tutorial</a>) or in **Google Colab**.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)  
 
 3. **`.pdf` format**: A static version of the notebook with code and explanations, but not interactive.
 
