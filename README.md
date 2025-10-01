@@ -14,14 +14,12 @@ You will now be able to access all the code and materials and follow along each 
 # Overview of the Course
 Each week, we will share a **“codebook”** that contains the code and explanations for what we covered in class. To make it accessible, the codebook will be available in three formats:  
 
-1. **`.ipynb` format (Jupyter Notebook)**: An interactive notebook that combines code and explanations. You can run the code step-by-step, see the outputs, and read notes that explain what each part does. This can be opened locally in Jupyter or directly in **Google Colab** (in your browser, no installation needed).  
+1. **`.R` format**: A script that can be run in RStudio. It contains the same code (with comments) but without the step-by-step explanations and outputs you see in the notebook.  
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/BRANCH/PATH/TO/NOTEBOOK.ipynb)  
+2. **`.ipynb` format (Jupyter Notebook)**: An interactive notebook that combines code and explanations. You can run the code step-by-step, see the outputs, and read notes that explain what each part does. This can be opened locally in Jupyter or directly in **Google Colab** (in your browser, no installation needed).
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 
-2. **`.pdf` format**: A static version of the notebook with all the code and explanations, but not interactive.  
-
-3. **`.R` format**: A script that can be run in RStudio. It contains the same code (with comments) but without the step-by-step explanations and outputs you see in the notebook.  
-
+3. **`.pdf` format**: A static version of the notebook with all the code and explanations, but not interactive.  
 
 # Curriculum
 Below is the curriculum which shows the week-wise breakdown of the topics we will cover. Everything on here is subject to change as the needs of the pod evolve. Looking forward to 8 weeks of learning and teamwork!
