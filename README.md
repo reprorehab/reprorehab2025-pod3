@@ -5,7 +5,7 @@ Learn more about ReproRehab here: https://www.reprorehab.usc.edu
 
 # Getting Started  
 Welcome Pod 3! We have created a GitHub repository as a centralized location to store and share all the materials/code/resources discussed during the bootcamp. To get started with using this repository, follow 3 steps:<br><br>
-**Step 1**: Fork this repository by clicking [here](https://github.com/rinivarg/ReproRehab-Pod3/fork).<br>
+**Step 1**: Fork this repository by clicking [here](https://github.com/rinivarg/ReproRehab-Pod3/fork)<br>
 **Step 2**: Download and install `git` on your computer [here](https://git-scm.com/downloads)<br>
 **Step 3**: Clone this repository locally to your computer by following instructions [here](https://github.com/rinivarg/ReproRehab-Pod3/blob/main/Git%20and%20GitHub/Github%20integration%20in%20Rstudio%20-%20How%20to%20download%20the%20repo%20into%20Rstudio%20and%20keep%20it%20updated%20on%20your%20local%20machine..pdf) <br>
 
