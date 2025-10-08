@@ -57,8 +57,10 @@ for(i in 1:length(dir.list)){
     temp=temp[-c(1,2),-2]
     #Convert to numeric
     temp[,c(2:5)]=apply(temp[,c(2:5)],2,as.numeric)
-    #Covert to seconds
-    temp$t <- seconds(times(temp$t)) + (minutes(times(temp$t)) * 60)
+  # Convert chron::times (fraction of a day) to seconds:
+  # as.numeric(times(...)) returns the time as fraction of a day. Multiply by 24 (hours/day)
+  # and 3600 (seconds/hour) to convert to seconds: seconds = days * 24 * 3600.
+  temp$t <- as.numeric(times(temp$t)) * 24 * 3600
     #Assign Sub id
     temp$Sub=dir.list[i]
     #Assign trial id
@@ -88,8 +90,8 @@ data.all <- map_df(dir.list, function(dir_name) {
     temp <- temp[-c(1, 2), -2]
     temp[, 2:5] <- apply(temp[, 2:5], 2, as.numeric)
     
-    # Convert time to seconds
-    temp$t <- seconds(times(temp$t)) + (minutes(times(temp$t)) * 60)
+  # Convert time to seconds (chron::times returns fraction of a day)
+  temp$t <- as.numeric(times(temp$t)) * 24 * 3600
     
     # Assign Sub id
     temp$Sub <- dir_name

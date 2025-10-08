@@ -38,7 +38,8 @@ for(i in 1:length(dir.list)){
     #Convert to numeric
     temp[,c(2:5)]=apply(temp[,c(2:5)],2,as.numeric)
     #Covert to seconds
-    temp$t=seconds(times(temp$t))+(minutes(times(temp$t))*60)
+  # Convert time to seconds (chron::times returns fraction of a day)
+  temp$t = as.numeric(times(temp$t)) * 24 * 3600
     #Assign Sub id
     temp$Sub=dir.list[i]
     #Assign trial id
