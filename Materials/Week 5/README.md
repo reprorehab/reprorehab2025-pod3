@@ -6,7 +6,7 @@ The code below will read in the 1) [SubjectInfo.xlsx](https://github.com/rinivar
 2) [Week_5.PDF format](https://github.com/rinivarg/ReproRehab-Pod3/blob/main/Materials/Week%205/Week%205%20-%20Codebook.pdf)
 3) [Week_5.r script](https://github.com/rinivarg/ReproRehab-Pod3/blob/main/Materials/Week%205/Week%205%20-%20Codebook.r)<br>
 
-*Example regression table generated:* [linear-model-fit.doc](https://github.com/rinivarg/ReproRehab-Pod3/blob/main/Materials/Week%205/linear-model-fit.doc)
+*Example regression table generated:* view [HTML-regression-table.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/rinivarg/ReproRehab-Pod3/refs/heads/main/Materials/Week%205/HTML-regression-table.html) (or download [DOC-regression-table.doc](https://github.com/rinivarg/ReproRehab-Pod3/blob/main/Materials/Week%205/DOC-regression-table.doc))
 
 **Thursday session files (covered by Andrew):** <br>
 The code below will read in the 1) [SubjectInfo.xlsx](https://github.com/rinivarg/ReproRehab-Pod3/blob/main/Materials/Week%205/SubjectInfo.xlsx) and 2) [raw.data.all.csv](https://github.com/rinivarg/ReproRehab-Pod3/blob/main/Materials/Week%205/raw.data.all.csv) for running stats. <br>
