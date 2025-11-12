@@ -1,3 +1,6 @@
+## BIOMECHANICS Data Playground
+If you would like to access to a recording or would like a workthrough of these data, please contact Rini.
+
 ## Data Description
 
 To assess quality assurance of lab staff marker placement when performing a clinical gait analysis, we had a single patient with gait abnormalities perform barefoot walking trials <ins> 3 different times</ins> (a.k.a. `sessions`: T1, T2, T3). The researcher would apply markers per our typical marker set, the patient would perform <ins> 4-5 walking trials</ins> (a.k.a. `trials`: Barefoot1, Barefoot2, Barefoot3 etc.), and then the markers would be removed. This process was repeated 2 more times in the same lab visit. <br><br> So ideally, there should be minimal differences between the signals produced…but if there are large differences, this could point to marker placement inconsistencies that may need to be addressed.
